@@ -1,0 +1,134 @@
+ /* All */
+h1 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  }
+  
+  h2 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin-top: 10px;
+  }
+  
+    h3 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin-top: 5px;
+  
+  }
+  
+    h4 {
+  color: #A52A2A;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin-top: 10px;
+  
+  }
+  
+  .center{
+	margin-left: 18%;
+}
+ 
+ .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 2px;
+  cursor: pointer; }
+  
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+ /* Main Page */
+
+img.profile{
+	border-radius: 50%;
+	  width: 15%;
+}
+
+iframe{
+	margin-left: 40%;
+}
+
+ /* Biodata */
+  
+  h2.biodata {
+  color: black;
+  font-size:40px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  }
+  
+  h4.biodata{
+	  font-style: italic;
+  }
+  
+   h3.biodata{
+	  margin-top:0px;
+	  margin-bottom:0px;
+  }
+  
+
+/* Family */
+
+  img.family {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+/* Gallery */
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+/* Contact Me */
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+}
+
+
+	  
